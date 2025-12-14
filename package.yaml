@@ -19,6 +19,10 @@ dependencies:
 - selda-sqlite
 - selda
 - text
+- aeson
+- servant
+- servant-server
+- natural-transformation
 
 ghc-options:
 - -Wall
